@@ -38,6 +38,6 @@ This repository showcases cloud migration lifecycle using enterprise DevOps prac
 
 ---
 
-## High-Level DevOps Architecture
+## Architecture
 
 ![DevOps Architecture](docs/images/architecture.png)
